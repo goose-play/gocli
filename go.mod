@@ -1,4 +1,4 @@
-module yycelab.com/gocli
+module goose-play/gocli
 
 go 1.19
 
