@@ -1,4 +1,4 @@
-module goose-play/gocli
+module github.com/goose-play/gocli
 
 go 1.19
 
